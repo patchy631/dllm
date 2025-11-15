@@ -1,15 +1,16 @@
-<h1 align="center">dLLM</h1>
+
+
+<p align="center">
+  <img src="assets/logo.gif" alt="dLLM logo" width="30%">
+</p>
 
 <p align="center">
 Simple Diffusion Language Modeling
 </p>
 
-<p align="center">
-<img
-  src="assets/logo.gif"
-  alt="dLLM logo">
-</p>
+___
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Overview
 **dLLM** is a library that unifies the training and evaluation of **diffusion language models**, bringing transparency and reproducibility to the entire development pipeline:
