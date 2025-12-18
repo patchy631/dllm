@@ -1,7 +1,7 @@
 <h1 align="center">dLLM</h1>
 
 <p align="center">
-Simple Diffusion Language Modeling
+Simple Diffusion Language Modeling.
 </p>
 
 <p align="center">
