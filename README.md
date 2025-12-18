@@ -1,8 +1,4 @@
-<h1 align="center">dLLM</h1>
 
-<p align="center">
-Simple Diffusion Language Modeling.
-</p>
 
 <p align="center">
 <img
@@ -10,9 +6,21 @@ Simple Diffusion Language Modeling.
   alt="dLLM logo">
 </p>
 
+<p align="center">
+<h3 align="center" > Simple Diffusion Language Modeling </h3>
+</p>
 
-## Overview
-**dLLM** is a library that unifies the training and evaluation of **diffusion language models**, bringing transparency and reproducibility to the entire development pipeline:
+<p align="center">
+<b>dLLM</b> is a Python library that unifies the training and evaluation of
+<b>diffusion language models</b>
+</p>
+
+---
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 - dLLM provides scalable training pipelines (based on [`transformers`](https://github.com/huggingface/transformers/blob/main/src/transformers) [Trainer](https://github.com/huggingface/transformers/blob/main/src/transformers/trainer.py)), with support for [LoRA](https://github.com/huggingface/peft), [DeepSpeed](https://github.com/deepspeedai/DeepSpeed), [FSDP](https://pytorch.org/blog/introducing-pytorch-fully-sharded-data-parallel-api/) and beyond.
 
